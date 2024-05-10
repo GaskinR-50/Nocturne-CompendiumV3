@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SMT Nocturne Compendium</string>
+    <string name="a2">Activity 2</string>
+    <string name="a3">Activity 3</string>
+        <string name="butt1">Compendium</string>
+    <string name="butt2">Fusion Results</string>
+    <string name="desc">default image</string>
+    <string name="fuse">Select Demon To Show Recipes</string>
+    <string name="db_hold">Pulls from DB</string>
+</resources>
